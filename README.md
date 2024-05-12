@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanu-sharma14
+- 👋 Hi, I’m Tanu Sharma also known here as @Tanu-Sharma14
 - 👀 I am particularly passionate about web development and data science.
 - 🌱 I am committed to continuous learning and seek to expand my knowledge through professional growth opportunities.
 - 💞️ I’m looking to collaborate on projects that align with my skills and interests.
