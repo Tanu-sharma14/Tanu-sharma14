@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanu Sharma also known here as @Tanu-Sharma14
-- 👀 I am particularly passionate about web development and data science.
+- 👀 I am particularly passionate about web development(such as JavaScript,HTML/CSS,and back-end technologies like Node.js or Django etc etc.) and data science(Machine learning, data analysis, or data visualization etc etc.)
 - 🌱 I am committed to continuous learning and seek to expand my knowledge through professional growth opportunities.
 - 💞️ I’m looking to collaborate on projects that align with my skills and interests.
 - 📫 Feel free to contact me at [tanusharma1264@gmail.com].
